@@ -8,5 +8,3 @@ Utilisation avancé de Angular &lt; V17
 - EventEmitter et @Output to link Dumb component with his parent(s) (bubble up - architecture container/presenter || smart/dumb)
 - Custom Pipe
 - Custom Directive
-
-
