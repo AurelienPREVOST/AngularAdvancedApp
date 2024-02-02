@@ -1,4 +1,4 @@
-/!\ Must be use with this repo, clone it and launch it on localhost:3000. light Db inside (JSON):  
+/!\ Must be used with this back-end repo, clone it and launch it on localhost:3000. light Db inside (JSON):  
 https://github.com/OpenClassrooms-Student-Center/angular-advanced-backend  
 
 
